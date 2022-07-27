@@ -3,7 +3,8 @@
 
 Fork from https://github.com/jie65535/GrasscutterCommandGenerator
 # 说明
-只支持 `简体中文`
+ - 只支持 `简体中文`
+ - 远控可能只支持GC`1.2.2`！
 
 由 [Syca](https://github.com/Sycamore0) 修改，id大部分适配2.8.5X。
 ## 不开源
