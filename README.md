@@ -25,4 +25,10 @@ Fork from https://github.com/jie65535/GrasscutterCommandGenerator
 要啥源码啊，用就完了！欸嘿！
 
 # 截图
-![image](https://github.com/Sycamore0/Sycamore0/blob/api/peoject/M85O6Y%7D2RGUX2QR%7BLBF%60ACX.png?raw=true)
+![image](https://user-images.githubusercontent.com/64587684/181867188-c31785d3-00cf-4670-890f-2d9789848635.png)
+![image](https://user-images.githubusercontent.com/64587684/181867146-4ad75bce-6a25-4007-9899-697035ca441f.png)
+![image](https://user-images.githubusercontent.com/64587684/181867162-6fcb6402-1c8b-4efd-bd3d-c2e694c990e6.png)
+![image](https://user-images.githubusercontent.com/64587684/181867174-abe72e26-1030-4342-aa47-f83354daaf43.png)
+![image](https://user-images.githubusercontent.com/64587684/181867167-65011d7c-6665-43d4-87a3-aa4e815da677.png)
+![image](https://user-images.githubusercontent.com/64587684/181867194-814cf34e-92ea-4d33-ac6a-9bb7ddfe2202.png)
+
