@@ -2,6 +2,8 @@
 > 原神2.8.5GC工具 v1.5.5
 > 可能是id最全的
 
+点个免费的star再[拿走](https://github.com/TeyvatL/GrasscutterTool-2.8.5/releases)吧！
+
 Fork from https://github.com/jie65535/GrasscutterCommandGenerator
 
 # 说明
