@@ -1,5 +1,6 @@
 # GrasscutterTool-2.8.5
 > 原神2.8.5GC工具 v1.5.5
+> 可能是id最全的
 
 Fork from https://github.com/jie65535/GrasscutterCommandGenerator
 
@@ -9,6 +10,7 @@ Fork from https://github.com/jie65535/GrasscutterCommandGenerator
 (目录下有个压缩包，包含新任务res！会解密你就可以有了！)
 
 由 [Syca](https://github.com/Sycamore0) 修改，id大部分适配2.8.5X。
+
 # 内容
  - 2.8的较为完整的handbook(大概)
  - 3.0地区特产
