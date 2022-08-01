@@ -15,6 +15,7 @@ Fork from https://github.com/jie65535/GrasscutterCommandGenerator
 
 # 内容
  - 2.8的较为完整的handbook(大概)
+ - 2.7完整Gadget ids+部分3.0 gadget
  - 3.0地区特产
  - 3.0角色
  - 3.0名片
