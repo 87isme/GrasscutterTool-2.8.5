@@ -40,7 +40,7 @@ Fork from https://github.com/jie65535/GrasscutterCommandGenerator
 要啥源码啊，用就完了！欸嘿！
 
 # 截图
-![image](https://user-images.githubusercontent.com/64587684/181867188-c31785d3-00cf-4670-890f-2d9789848635.png)
+![image](https://user-images.githubusercontent.com/64587684/182167764-994dc7bf-9c0d-456b-b4bf-a20a3a94bcf9.png)
 ![image](https://user-images.githubusercontent.com/64587684/181867146-4ad75bce-6a25-4007-9899-697035ca441f.png)
 ![image](https://user-images.githubusercontent.com/64587684/181867162-6fcb6402-1c8b-4efd-bd3d-c2e694c990e6.png)
 ![image](https://user-images.githubusercontent.com/64587684/181867174-abe72e26-1030-4342-aa47-f83354daaf43.png)
