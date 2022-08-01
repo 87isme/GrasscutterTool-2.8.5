@@ -9,7 +9,7 @@ Fork from https://github.com/jie65535/GrasscutterCommandGenerator
 # 说明
  - 只支持 `简体中文`
 
-(目录下有个压缩包，包含新任务res！会解密你就可以有了！)
+(目录下有个压缩包，包含新任务res！逝出密码你就可以有了！)
 
 由 [Syca](https://github.com/Sycamore0) 修改，id大部分适配2.8.5X。
 
